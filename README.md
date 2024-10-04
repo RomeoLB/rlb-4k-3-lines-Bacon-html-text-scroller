@@ -48,7 +48,7 @@ In the index.html file provided in this repo there is a "speed" variable that ca
 
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/d86fdaa9-bf07-4b6a-bfa4-2fff7cb0566d">
 
-## How do I adjust the llok and feel of the text scroller?
+## How do I adjust the look and feel of the text scroller?
 
 The look and feel (background color, font size, font color, etc) of the scroller and text can all be manually adjusted in the index.html file. Make sure to republish the presentation once you've made the necessary changes to the index.html page.
 
